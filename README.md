@@ -13,5 +13,5 @@
 | 프로젝트 | 소개 |
 | --- | --- |
 | [Pixel Studio](https://github.com/LeeSanghyun1230/LeeSanghyun1230.github.io) | Three.js로 만든 3D 픽셀 작업실입니다. 브라우저에서 캐릭터와 상호작용하며 포트폴리오를 둘러볼 수 있습니다. |
-| [Catch Recycling Game](https://github.com/LeeSanghyun1230/Catch-Recycling-Game) | 15조 엔트리의 Java 게임 프로젝트입니다. |
+| [Catch Recycling Game](https://github.com/LeeSanghyun1230/Catch-Recycling-Game) | 오픈소스 SW  15조 엔트리의 작업물입니다 |
 
